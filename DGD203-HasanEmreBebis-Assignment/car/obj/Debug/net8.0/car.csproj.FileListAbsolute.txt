@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\car\obj\Debug\net8.0\car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\car\obj\Debug\net8.0\car.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\car\obj\Debug\net8.0\car.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\car\obj\Debug\net8.0\car.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\car\bin\Debug\net8.0\car.exe
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\car\bin\Debug\net8.0\car.deps.json
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\car\bin\Debug\net8.0\car.runtimeconfig.json
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\car\bin\Debug\net8.0\car.dll
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\car\bin\Debug\net8.0\car.pdb
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\car\obj\Debug\net8.0\car.dll
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\car\obj\Debug\net8.0\refint\car.dll
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\car\obj\Debug\net8.0\car.pdb
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\car\obj\Debug\net8.0\car.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\car\obj\Debug\net8.0\ref\car.dll

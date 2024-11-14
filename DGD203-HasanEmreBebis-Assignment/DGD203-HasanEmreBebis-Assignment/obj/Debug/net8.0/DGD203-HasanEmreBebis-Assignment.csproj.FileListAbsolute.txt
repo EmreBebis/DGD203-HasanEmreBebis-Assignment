@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\bin\Debug\net8.0\DGD203-HasanEmreBebis-Assignment.exe
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\bin\Debug\net8.0\DGD203-HasanEmreBebis-Assignment.deps.json
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\bin\Debug\net8.0\DGD203-HasanEmreBebis-Assignment.runtimeconfig.json
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\bin\Debug\net8.0\DGD203-HasanEmreBebis-Assignment.dll
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\bin\Debug\net8.0\DGD203-HasanEmreBebis-Assignment.pdb
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\obj\Debug\net8.0\DGD203-HasanEmreBebis-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\obj\Debug\net8.0\DGD203-HasanEmreBebis-Assignment.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\obj\Debug\net8.0\DGD203-HasanEmreBebis-Assignment.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\obj\Debug\net8.0\DGD203-HasanEmreBebis-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\obj\Debug\net8.0\DGD203-HasanEmreBebis-Assignment.dll
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\obj\Debug\net8.0\refint\DGD203-HasanEmreBebis-Assignment.dll
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\obj\Debug\net8.0\DGD203-HasanEmreBebis-Assignment.pdb
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\obj\Debug\net8.0\DGD203-HasanEmreBebis-Assignment.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\DGD203-HasanEmreBebis-Assignment\obj\Debug\net8.0\ref\DGD203-HasanEmreBebis-Assignment.dll
